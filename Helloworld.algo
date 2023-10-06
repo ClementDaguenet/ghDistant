@@ -10,7 +10,7 @@ Algo HelloWorld {
 		Mettre la couleur jaune sur le label
 		// Finalisation
 		Ajouter le label sur la fenetre
-		Mettre le fond ecran en vert
+		Mettre le fond ecran en cyan
 		Afficher la fenêtre
 		// commentaire
 	}
