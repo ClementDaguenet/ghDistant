@@ -6,6 +6,7 @@ Algo HelloWorld {
 		Configurer la fenetre sur ‘exitOnClose’
 		// Création du label de texte
 		Créer un label avec du texte centré et contenant le texte ‘Hello world’
+		Ajouter un label avec la date du jour
 		Créer la couleur jaune
 		Mettre la couleur jaune sur le label
 		// Finalisation
